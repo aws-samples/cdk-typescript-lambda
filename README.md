@@ -12,7 +12,6 @@ This code repository can be used as a starting point for TypeScript CDK projects
 * Project level configuration for prettier and ESLint.
 * Config to generate environment specific names for cloud resources. For example, if ENV_NAME is set to `test`, `Add` function's name would be  `Add_test`
 
-Code Repository - https://gitlab.aws.dev/jaivai/cdk-ts-lambda
 
 ## Project Setup
 
@@ -55,10 +54,8 @@ Unit tests for the CDK stack are in `__tests__` directory and for individual Lam
 2.	AWS CDK is setup. The instructions are available [here](https://docs.aws.amazon.com/cdk/latest/guide/getting_started.html#getting_started_install). 
 3.	NodeJS is installed. Download latest version from [here](https://nodejs.org/en/download/).
 4.	Git is installed (to pull code from repository). The instructions are available [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
-5.	Access to AWS Gitlab - https://gitlab.aws.dev/ and HTTPS credentials or SSH key is set up. Instructions to set up SSH key are available [here](https://gitlab.aws.dev/help/ssh/README#generate-an-ssh-key-pair).
-6.	VS Code or any other IDE for TypeScript development.
-7.	If using windows, use git-bash as terminal. It’s installed as part of installing Git.
-
+5.	VS Code or any other IDE for TypeScript development.
+6.	If using windows, use git-bash as terminal. It’s installed as part of installing Git.
 
 
 ### Install and Deploy 
