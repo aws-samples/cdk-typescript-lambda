@@ -7,3 +7,7 @@ node_modules
 .cdk.staging
 cdk.out
 coverage
+package-lock.json
+src/package-lock.json
+src/Add/package-lock.json
+src/Multiply/package-lock.json
