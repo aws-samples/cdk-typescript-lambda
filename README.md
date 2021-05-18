@@ -1,4 +1,4 @@
-# How to set up TypeScript CDK project with Lambda functions developed using TypeScript
+# How To Set Up TypeScript CDK Project With Lambda Functions Developed Using TypeScript
 
 AWS CDK supports TypeScript as a client language. There are examples available in AWS documentation on how to set up CDK project using TypeScript to deploy NodeJS based Lambda functions. Lambda functions in these examples are written in JavaScript. 
 
