@@ -1,0 +1,19 @@
+{
+  "name": "multiply",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prebuild": "npm install",
+    "build": "tsc",
+    "package": "npm prune --production && cp -R node_modules lib/node_modules/"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "@types/uuid": "^8.3.0"
+  }
+}
