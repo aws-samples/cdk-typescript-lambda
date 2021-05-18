@@ -65,6 +65,7 @@ Unit tests for the CDK stack are in `__tests__` directory and for individual Lam
 From project root directory, run following commands - 
 * `npm install`
 * `npm run build`
+* `npm run package` 
 * `export ENV_NAME=test` - This sets the environment name to `test`, so the resources will have post-fix of `_test` in their name.
 * `npm run test`
 * `cdk deploy`
